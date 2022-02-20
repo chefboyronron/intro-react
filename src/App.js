@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.scss';
-import Button from './modules/button';
+import Btn from './modules/button';
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
           </div>
         </div>
       </header>
-      <Button />
+      <Btn />
     </div>
   );
 }
