@@ -7,6 +7,8 @@ import {
 } from "react-router-dom";
 
 export default function BasicExample() {
+  // Log env variables
+  console.log(process.env);
   return (
     <Router>
       <div>
