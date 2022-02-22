@@ -28,12 +28,6 @@
   color: #61dafb;
 }
 
-div.container {
-  .label {
-    color: blue;
-  }
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
